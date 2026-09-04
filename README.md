@@ -1,3 +1,3 @@
 # Хеллоу
 
-всё интересное происходит в [github pages](https://daniladanila.github.io/2025-caos/)
+всё интересное происходит в [github pages](https://daniladanila.github.io/caos-theory/)

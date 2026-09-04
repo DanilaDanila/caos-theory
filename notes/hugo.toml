@@ -1,4 +1,4 @@
-baseURL = 'https://daniladanila.github.io/2025-caos/'
+baseURL = 'https://daniladanila.github.io/caos-theory/'
 languageCode = 'ru-ru'
 title = 'caos theory'
 theme = 'hugo-book'
