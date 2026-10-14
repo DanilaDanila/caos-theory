@@ -32,7 +32,7 @@ sudo apt-get install gcc-13-aarch64-linux-gnu
 ### gcc-linaro - если простой путь не сработал
 
 Есть проект [Linaro](https://www.linaro.org/), можно позаимствовать компилятор у них.
-У них есть набор инструментов - [toolchain](https://releases.linaro.org/components/toolchain/binaries/), можно взять последний [gcc-7](https://releases.linaro.org/components/toolchain/binaries/7.5-2019.12/aarch64-linux-gnu/).
+У них есть набор инструментов - [toolchain](https://developer.arm.com/Downloads/-/Legacy%20Linaro%20GNU%20Toolchains), можно взять последний [gcc-7](https://developer.arm.com/-/cdn-downloads/permalink/legacy-linaro-gnu-toolchains/7.5-2019.12/gcc-linaro-7.5.0-2019.12-x86_64_aarch64-linux-gnu.tar.xz).
 Когда вы это читаете, 'последним' может быть уже другой)
 
 Качаем компилятор - `gcc-linaro-7.5.0-2019.12-x86_64_aarch64-linux-gnu.tar.xz` и sysroot - `sysroot-glibc-linaro-2.25-2019.12-aarch64-linux-gnu.tar.xz`.
